@@ -1,0 +1,11 @@
+D:\DemoMot\C#\TourParTour\TourParTour\bin\Debug\TourParTour.exe.config
+D:\DemoMot\C#\TourParTour\TourParTour\bin\Debug\TourParTour.exe
+D:\DemoMot\C#\TourParTour\TourParTour\bin\Debug\TourParTour.pdb
+D:\DemoMot\C#\TourParTour\TourParTour\obj\Debug\TourParTour.csproj.AssemblyReference.cache
+D:\DemoMot\C#\TourParTour\TourParTour\obj\Debug\TourParTour.Menu.resources
+D:\DemoMot\C#\TourParTour\TourParTour\obj\Debug\TourParTour.Properties.Resources.resources
+D:\DemoMot\C#\TourParTour\TourParTour\obj\Debug\TourParTour.csproj.GenerateResource.cache
+D:\DemoMot\C#\TourParTour\TourParTour\obj\Debug\TourParTour.csproj.CoreCompileInputs.cache
+D:\DemoMot\C#\TourParTour\TourParTour\obj\Debug\TourParTour.exe
+D:\DemoMot\C#\TourParTour\TourParTour\obj\Debug\TourParTour.pdb
+D:\DemoMot\C#\TourParTour\TourParTour\obj\Debug\TourParTour.Jeu.resources
