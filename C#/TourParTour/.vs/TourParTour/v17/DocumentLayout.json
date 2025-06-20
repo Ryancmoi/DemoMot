@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{DA6D6A12-FAE0-48E9-9251-C980BD1E70F8}|TourParTour\\TourParTour.csproj|solutionrelative:tourpartour\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA6D6A12-FAE0-48E9-9251-C980BD1E70F8}|TourParTour\\TourParTour.csproj|D:\\DemoMot\\C#\\TourParTour\\tourpartour\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA6D6A12-FAE0-48E9-9251-C980BD1E70F8}|TourParTour\\TourParTour.csproj|solutionrelative:tourpartour\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA6D6A12-FAE0-48E9-9251-C980BD1E70F8}|TourParTour\\TourParTour.csproj|D:\\DemoMot\\C#\\TourParTour\\tourpartour\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DA6D6A12-FAE0-48E9-9251-C980BD1E70F8}|TourParTour\\TourParTour.csproj|solutionrelative:tourpartour\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6D6A12-FAE0-48E9-9251-C980BD1E70F8}|TourParTour\\TourParTour.csproj|D:\\DemoMot\\C#\\TourParTour\\tourpartour\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6D6A12-FAE0-48E9-9251-C980BD1E70F8}|TourParTour\\TourParTour.csproj|solutionrelative:tourpartour\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,22 +36,10 @@
               "RelativeDocumentMoniker": "TourParTour\\Jeu.cs",
               "ToolTip": "D:\\DemoMot\\C#\\TourParTour\\TourParTour\\Jeu.cs",
               "RelativeToolTip": "TourParTour\\Jeu.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAawGUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABEBAAAAAAAAAAAgwCIBAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T11:35:30.84Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\DemoMot\\C#\\TourParTour\\TourParTour\\Menu.cs",
-              "RelativeDocumentMoniker": "TourParTour\\Menu.cs",
-              "ToolTip": "D:\\DemoMot\\C#\\TourParTour\\TourParTour\\Menu.cs",
-              "RelativeToolTip": "TourParTour\\Menu.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAswBUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T10:14:01.824Z"
             },
             {
               "$type": "Document",
@@ -62,12 +50,23 @@
               "ToolTip": "D:\\DemoMot\\C#\\TourParTour\\TourParTour\\Jeu.cs [Design]",
               "RelativeToolTip": "TourParTour\\Jeu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T10:13:30.421Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-05T10:13:30.421Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\DemoMot\\C#\\TourParTour\\TourParTour\\Menu.cs",
+              "RelativeDocumentMoniker": "TourParTour\\Menu.cs",
+              "ToolTip": "D:\\DemoMot\\C#\\TourParTour\\TourParTour\\Menu.cs",
+              "RelativeToolTip": "TourParTour\\Menu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:14:01.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "D:\\DemoMot\\C#\\TourParTour\\TourParTour\\Menu.cs",
               "RelativeDocumentMoniker": "TourParTour\\Menu.cs",
